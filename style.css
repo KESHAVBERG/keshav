@@ -6,6 +6,11 @@ h1 {
     margin-bottom: 10px;
 }
 
+h2{
+    font-family: utopia-std-display, serif;
+
+}
+
 .intro{
     font-family: 'Times New Roman', Times, serif;
     font-size: 17px;
@@ -74,4 +79,13 @@ h1 {
     list-style: none;
     display: inline;
     padding-left:10px;
+}
+
+
+a{
+    font-size: 17px;
+}
+
+.propsheading{
+    font-family:'Times New Roman', Times, serif;
 }
